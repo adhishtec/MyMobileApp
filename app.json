@@ -4,6 +4,8 @@
     "slug": "MyProfile",
     "version": "1.0.0",
     "orientation": "portrait",
+    "permissions": ["LOCATION"],
+    "platforms": ["android", "ios"],
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
